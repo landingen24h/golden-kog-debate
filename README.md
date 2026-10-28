@@ -1,5 +1,7 @@
 # Golden Kog risk debate
 
+[![CI](https://github.com/landingen24h/golden-kog-debate/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/golden-kog-debate/actions/workflows/ci.yml)
+
 A small TypeScript module that adds a two sided structure debate to a token risk analysis. Two advocates argue from measured facts, one for a sound structure and one for a fragile structure, then a reviewer weighs them. It is a risk tool, never a trading tool: no buy or sell view, no price target, no entry or exit, no advice. The debate never returns or changes a level or points.
 
 No runtime dependency. Node 22 (also runs on Node 20). MIT licence.
